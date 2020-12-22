@@ -179,57 +179,57 @@
         </div>
 	
 		<!-- footer-->
-	<footer class="conten">
-		<div class="fazul">
-			<div class="contAzul">
-				<img class="final" src="../../assets/6.png">
-			<div>
-				<h1 class="tFinal">SERVICIOS</h1><br>
-				<ul class="flis">
-					<li>GPS</li>
-					<li>Bodegas</li>
-					<li>Transporte</li>
-				</ul>
-			</div>
-			<div>
-				<h1 class="tFinal">COMUNICARSE</h1><br>
-				<ul class="flis">
-					<li>Póngase  en contacto</li>
-					<li>Comentarios</li>
-					<li>Redes sociales</li>
-				</ul>
-			</div>
-			<div>
-				<h1 class="tFinal">POLITICAS</h1><br>
-				<ul class="flis">
-					<li>Privacidad</li>
-					<li>Agradecimientos</li>
-					<li>Licencias</li>
-				</ul>
-			</div>
-			<div class="famarilo">
-				<div class="cont-text">
-				<h1 class="tFinal">ACERCA DE </h1><br>
-				<p class="pFinal">Toda actividad  convive con diversos factores que influyen en su rendimiento y competitividad. Entender los objetivos de la logística es la clave para marcar la diferencia.</p>
-				<div class="redes">
-		
-				<a href="https://github.com/paflorezh/semana-4.git" title=""><i class="fab fa-github"></i></a>
-				
+		<footer class="conten">
+			<div class="fazul">
+				<div class="contAzul">
+					<img class="final" src="../../assets/6.png">
+				<div>
+					<h1 class="tFinal">SERVICIOS</h1><br>
+					<ul class="flis">
+						<li>GPS</li>
+						<li>Bodegas</li>
+						<li>Transporte</li>
+					</ul>
 				</div>
+				<div>
+					<h1 class="tFinal">COMUNICARSE</h1><br>
+					<ul class="flis">
+						<li>Póngase  en contacto</li>
+						<li>Comentarios</li>
+						<li>Redes sociales</li>
+					</ul>
 				</div>
-				
-				<div class="imaF">
-				<img class="final2" src="../../assets/4.png">
+				<div>
+					<h1 class="tFinal">POLITICAS</h1><br>
+					<ul class="flis">
+						<li>Privacidad</li>
+						<li>Agradecimientos</li>
+						<li>Licencias</li>
+					</ul>
 				</div>
-				
-				
+				<div class="famarilo">
+					<div class="cont-text">
+					<h1 class="tFinal">ACERCA DE </h1><br>
+					<p class="pFinal">Toda actividad  convive con diversos factores que influyen en su rendimiento y competitividad. Entender los objetivos de la logística es la clave para marcar la diferencia.</p>
+					<div class="redes">
 			
+					<a href="https://github.com/paflorezh/semana-4.git" title=""><i class="fab fa-github"></i></a>
+					
+					</div>
+					</div>
+					
+					<div class="imaF">
+					<img class="final2" src="../../assets/4.png">
+					</div>
+					
+					
 				
+					
+					</div>
 				</div>
+				<p class="linea"></p>
 			</div>
-			<p class="linea"></p>
-		</div>
-	</footer>
+		</footer>
     </div>
 </template>
 
