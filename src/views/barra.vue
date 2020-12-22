@@ -6,11 +6,11 @@
 
 <script>
 // import TheLogin from '@/components/auth/TheLogin'
-import TheServicios from '@/components/auth/TheServicios.vue'
+import TheBarra from '@/components/auth/TheBarra.vue'
 
 export default {
     components:{
-        TheServicios
+        TheBarra
     }
 }
 
